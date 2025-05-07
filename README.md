@@ -1,3 +1,3 @@
 ## Machine Learning Models
 
-Learning Machien learning :D
+Learning Machine learning :D
