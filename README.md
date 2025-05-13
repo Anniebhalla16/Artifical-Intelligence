@@ -1,3 +1,3 @@
 ## Machine Learning Models
 
-Learning Machine learning :D
+Training my network, to train other networks :D
